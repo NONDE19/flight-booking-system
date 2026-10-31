@@ -1,0 +1,15 @@
+﻿{
+  "name": "SkyQuest Airways",
+  "short_name": "SkyQuest",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A192F",
+  "theme_color": "#0A192F",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

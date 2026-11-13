@@ -14,7 +14,7 @@ An enterprise-grade, responsive full-stack flight reservation, ticketing, and ai
   - Mfuwe (South Luangwa Safari - MFU)
   - Regional: Johannesburg (O.R. Tambo - JNB)
 - **Currency**: Native Zambian Kwacha (`ZMW / K`).
-- **Luggage Allowance**: Standardized 23kg check-in bag (*Chitundu*) + 7kg hand luggage.
+- **Luggage Allowance**: Standardized 23kg check-in bag (*Katundu*) + 7kg hand luggage.
 
 ### 📱 Local Payment Processing
 - Integrated support for **MTN Mobile Money**, **Airtel Money Zambia**, **Zamtel Kwacha**, and Visa/Mastercard debit/credit cards with country dial code `+260`.
